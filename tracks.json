@@ -1,0 +1,62 @@
+[
+  {
+    "id": "welcome",
+    "title": "Um espaço para respirar",
+    "subtitle": "Boas-vindas à Minha Frequência",
+    "kicker": "PROGRAMA ATUAL",
+    "category": "current",
+    "length": "00:22",
+    "icon": "✳",
+    "file": "audio/demo-1.wav"
+  },
+  {
+    "id": "tea",
+    "title": "TEA: cada jeito de existir",
+    "subtitle": "Neurodiversidade sem filtros",
+    "kicker": "PROGRAMA ATUAL",
+    "category": "current",
+    "length": "00:22",
+    "icon": "◉",
+    "file": "audio/demo-2.wav"
+  },
+  {
+    "id": "adhd",
+    "title": "TDAH além dos rótulos",
+    "subtitle": "Informação que acolhe",
+    "kicker": "PROGRAMA ATUAL",
+    "category": "current",
+    "length": "00:22",
+    "icon": "✧",
+    "file": "audio/demo-3.wav"
+  },
+  {
+    "id": "tod",
+    "title": "TOD: escuta e compreensão",
+    "subtitle": "Conversas com respeito e empatia",
+    "kicker": "ARQUIVO · 28 OUT 2026",
+    "category": "archive",
+    "length": "00:22",
+    "icon": "♡",
+    "file": "audio/demo-1.wav"
+  },
+  {
+    "id": "family",
+    "title": "Neurodiversidade em família",
+    "subtitle": "Um caminho de descobertas",
+    "kicker": "ARQUIVO · 20 OUT 2026",
+    "category": "archive",
+    "length": "00:22",
+    "icon": "☼",
+    "file": "audio/demo-2.wav"
+  },
+  {
+    "id": "school",
+    "title": "Inclusão que acontece",
+    "subtitle": "Pequenas mudanças, grande diferença",
+    "kicker": "ARQUIVO · 12 OUT 2026",
+    "category": "archive",
+    "length": "00:22",
+    "icon": "✿",
+    "file": "audio/demo-3.wav"
+  }
+]
