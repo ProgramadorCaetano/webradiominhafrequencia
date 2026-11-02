@@ -1,33 +1,33 @@
 [
   {
     "id": "welcome",
-    "title": "Um espaço para respirar",
-    "subtitle": "Boas-vindas à Minha Frequência",
+    "title": "Músicas bloco 1",
+    "subtitle": "Depois de algumas músicas sua frequência vai mudar",
     "kicker": "PROGRAMA ATUAL",
     "category": "current",
-    "length": "00:22",
+    "length": "00:19",
     "icon": "✳",
-    "file": "audio/demo-1.wav"
+    "file": "audio/Musicas_bloco1.mp3"
   },
   {
     "id": "tea",
-    "title": "TEA: cada jeito de existir",
-    "subtitle": "Neurodiversidade sem filtros",
+    "title": "Medicação para TDAH: Mitos e Verdades",
+    "subtitle": "Tratamento não é muleta, é ferramenta",
     "kicker": "PROGRAMA ATUAL",
     "category": "current",
-    "length": "00:22",
+    "length": "00:12",
     "icon": "◉",
-    "file": "audio/demo-2.wav"
+    "file": "audio/Progama15_All.mp3"
   },
   {
     "id": "adhd",
-    "title": "TDAH além dos rótulos",
-    "subtitle": "Informação que acolhe",
+    "title": "Músicas bloco2",
+    "subtitle": "Depois de algumas músicas sua frequência vai mudar",
     "kicker": "PROGRAMA ATUAL",
     "category": "current",
-    "length": "00:22",
+    "length": "00:20",
     "icon": "✧",
-    "file": "audio/demo-3.wav"
+    "file": "audio/Musicas_bloco2.mp3"
   },
   {
     "id": "tod",
